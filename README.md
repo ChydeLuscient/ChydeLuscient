@@ -25,8 +25,9 @@
 
 * 🎓 I'm currently an **Informatics Management** student at **Astra Polytechnic**.
 * 💻 I specialize in **Software Development**, crafting applications across Web, Mobile, and Desktop ecosystems.
+* 📚 A passionate **lifelong learner**, always eager to adopt new technologies and improve my engineering practices.
 * ⚙️ I have strong hands-on experience in **Networking & Systems Administration**, including containerization and server deployments.
-* 🌱 Exploring deeper into the intersections of **Data Science** and **Artificial Intelligence**.
+* 🌱 Still learning and exploring deeper into the technical intersections of **Data Science** and **Artificial Intelligence**.
 * ✨ I appreciate and try to implement **clean, minimalist visual designs** in my workspaces and UI architectures.
 
 ---
