@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;Building+with+React+Native%2C+.NET%2C+Laravel;Exploring+Data+Science+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;Building+with+React+Native%2C+Java%2C+.NET%2C+Laravel;Exploring+Data+Science+%26+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -82,3 +82,4 @@
 </p>
 
 ---
+
